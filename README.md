@@ -1,4 +1,4 @@
-# Fraud-Detection-ml (IEEE-CIS Fraud Detection)
+# Fraud-Detection-ml
 
 ## [IEEE-CIS Fraud Detection](https://www.kaggle.com/c/ieee-fraud-detection/overview)
 - მიმოხილვა
